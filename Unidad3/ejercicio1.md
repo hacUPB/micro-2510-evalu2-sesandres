@@ -1,4 +1,4 @@
-## Actividad
+# Actividad MOISES ANDRES PEREZ TAMAYO - SAMUEL GIL MORALES.
 
 #### 1. Vas a implementar un ejercicio tomado directamente de la página de ST. [**Link del ejercicio**](https://wiki.st.com/stm32mcu/wiki/Getting_started_with_ADC).
 #### 2. Vas a reemplazar la entrada del DAC del ejercicio por un sensor analógico. Puede ser una resistencia variable con la luz, un sensor de temperatura o cualquiera que tengas a disposición. **Recuerda que debe ser analógico**. 
